@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "category": "truck",
+      "model": {
+        "lang": "en",
+        "name": "Scania R 770"
+      },
+      "year": 2005,
+      "price": {
+        "currency": "US dollar",
+        "value": 200000
+      }
+    },
+    {
+      "category": "sedan",
+      "title": {
+        "lang": "en",
+        "name": "Ford Focus"
+      },
+      "year": 2012,
+      "price": {
+        "currency": "US dollar",
+        "value": 20000
+      }
+    },
+    {
+      "category": "sport",
+      "title": {
+        "lang": "en",
+        "name": "Ferrari 360 Spider"
+      },
+      "year": 2018,
+      "price": {
+        "currency": "US dollar",
+        "value": 15000
+      }
+    }
+  ]
+}
