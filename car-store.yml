@@ -1,0 +1,29 @@
+cars :
+  - category: truck
+    model:
+      language: english
+      name: Scania R 770
+    year: 2005
+    price:
+      currency: US dollar
+      value: 200000
+
+  - category: sedan
+    model:
+      language: english
+      name: Ford Focus
+    year: 2012
+    price:
+      currency: US dollar
+      value: 20000
+
+  - category: sport
+    model:
+      language: english
+      name: Ferrari 360 Spider
+    year: 2018
+    price:
+      currency: US dollar
+      value: 150000
+
+
